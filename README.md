@@ -1,4 +1,4 @@
-[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](https://noktapy.com/)
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](https://www.noktapy.com/)
 # movie-night
 A random movie recommendation program within your filters(minimum IMDb rating, release year, genre).
 
