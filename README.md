@@ -1,3 +1,4 @@
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 # movie-night
 A random movie recommendation program within your filters(minimum IMDb rating, release year, genre).
 
